@@ -1,2 +1,2 @@
-# ash2023
-https://github.com/ayonh4x/ash2023.git
+ash2023
+Ayon-H4x-9742C3AE08-M4786==
